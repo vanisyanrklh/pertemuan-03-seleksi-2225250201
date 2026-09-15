@@ -1,8 +1,8 @@
 # Pertemuan 03 Seleksi Python
 
-Nama: ...
-NIM: ...
-Kelas: ...
+Nama: Vanisya Nur khalimah
+NIM: 2225250201
+Kelas: 3B
 
 ## Tujuan
 Menulis program seleksi if, if-else, kondisi majemuk, dan nested if.
