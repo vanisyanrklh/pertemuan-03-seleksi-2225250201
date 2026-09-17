@@ -1,6 +1,6 @@
 # Pertemuan 03 Seleksi Python
 
-Nama: Vanisya Nur khalimah
+Nama: Vanisya Nur Khalimah
 NIM: 2225250201
 Kelas: 3B
 
